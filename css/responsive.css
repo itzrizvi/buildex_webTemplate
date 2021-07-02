@@ -1,0 +1,226 @@
+@media screen and (max-width: 992px){
+    .testimonial-sl .item {
+        height: 218px;
+    }
+    
+    .testimonial-text {
+        padding: 20px 10px;
+        line-height: 22px;
+    }
+    
+    .item img {
+        margin-top: 26px;
+    }
+    .widget-1, 
+    .widget-2, 
+    .widget-3, 
+    .widget-4 {
+        margin-bottom: 50px;
+        height: 300px;
+    } 
+}
+
+
+@media screen and (max-width: 768px){
+    .top-left-side {
+        text-align: center;
+    }
+    .top-right-side {
+        text-align: center;
+        padding-top: 0px;
+    }
+    
+    .top-left-side p {
+        padding-bottom: 2px;
+        line-height: 10px;
+    }
+    
+    .top-bar {
+        height: 114px;
+    }
+    
+    ul.list-inline {
+        padding: 10px 0;
+    }
+    .main-menu{
+        display: none;
+    }
+    .mobile-menu{
+        display:block;
+    }
+    .slide-content h2 {
+        text-align: center ;
+        font-size: 30px;
+        word-spacing: 0px;
+        top: 20%;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+    .slide-content p {
+        top: 42%;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        text-align: center;
+        width: 100%;
+    }
+    .slide-content a {
+        text-align: center;
+        display: block;
+        width: 200px;
+        margin: auto;
+        left: 0;
+        right: 0;
+        top: 60%;
+    }
+
+    .call-one-text {
+        margin-bottom: 35px;
+        text-align: center;
+    }
+    
+    .call-one-btn a {
+        display: block;
+        width: 150px;
+        text-align: center;
+        margin: auto;
+    }
+    .service-box-title p{
+        width: 80%;
+    }
+    .testimonial-text {
+        padding: 20px 40px;
+        line-height: 32px;
+    }
+    
+    .item img {
+        margin-left: 6%;
+    }
+
+    .custom-counter{
+        margin-bottom: 30px;
+    }
+    .call-two-btn {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .blog-head p {
+        width: 90%;
+    }
+    .widget-2 ul.recent-news li img {
+        width: 100%;
+    }
+    section.copyright-bar .trademark {
+        text-align: center;
+    }
+    
+    .footer-menu ul {
+        text-align: center;
+    }
+    footer.foot{
+        padding-bottom: 0px;
+    }
+    .featured-head-area p{
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .category-texts {
+        width: 84%;
+        text-align: justify;
+    }
+}
+
+
+@media screen and (max-width: 530px){
+    ul.project-filter li {
+        display: block;
+        padding: 9px 10px;
+        position: relative;
+        text-align: left;
+    }
+    
+    ul.project-filter li::after {
+        content: "";
+        position: absolute;
+        border-left: 5px solid #fab702;
+        height:  19px;
+        left: 0;
+    }
+    .testimonial-text {
+        padding: 14px 13px;
+    }
+    
+    .item img {
+        margin-left: 2%;
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 518px){
+    .slide-content h2{
+        padding: 0 5%;
+        font-size: 25px;
+        top: 17%;
+    }
+    .slide-content p{
+        top: 40%;
+        padding: 0 5%;
+    }
+    .slide-content a{
+        top: 60%;
+    }
+
+    .slide{
+        height: 500px;
+    }
+    section.header-slider{
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 490px){
+    .client-slide img {
+        height: 40px;
+    }
+
+    .client1, 
+    .client2, 
+    .client3, 
+    .client4 {
+        width: 110px;
+    }
+}
+
+
+@media screen and (max-width: 470px){
+    .testimonial-text {
+        line-height: 25px;
+    }
+    
+    .testimonial-sl .item {
+        height: auto;
+        display: block;
+        text-align: center;
+    }
+    
+    .testimonial-sl .item img {
+        margin: auto;
+        margin-top: 10px;
+    }
+}
+
+
+@media screen and (max-width: 378px){
+    .slide-content a{
+        top: 64%;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .client1, .client2, .client3, .client4{
+        margin-left: 10%;
+    }
+}
